@@ -27,4 +27,4 @@ A **production-style Python backend** built with FastAPI, Celery, Redis, and Pos
 1. Clone repo:
 ```bash
 git clone <repo_url>
-cd ai_content_extractor
+cd ai-content-extractor
